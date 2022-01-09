@@ -1,0 +1,6 @@
+[Server Data]
+mode:custommap
+[안내:로비모드라도 플레이어는 월드 밖으로 나가서 죽을 수 있습니다]
+enable:Mob1.png
+enable:Mob2.png
+enable:Player.png
